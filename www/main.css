@@ -1,0 +1,139 @@
+<style type="text/css">
+
+dfsdf { }
+
+body {
+  font-size: 13px;
+  color: #000000;
+  font-family: Tahoma;
+  background-color: #ffffff;
+  align: center
+}
+
+td {
+  align: center;
+  font-size: 13px;
+  font-family: Tahoma;
+}
+
+
+.td2 {
+  background-color: #f7f7f7;
+  text-align: right;
+}
+
+a, a:visited, a:active, a:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+a:hover {
+  color: #707070;
+}
+
+.searchlite { font-weight:bold; color:#F00; background-color:#FF0 }
+
+.m, a:visited.m, a:active.m, a:hover.m {
+  text-decoration: underline;
+  color: #000000;
+  font-size: 75%;
+}
+
+a:hover.m {
+  color: #707070;
+}
+
+.h, a:visited.h, a:active.h, a:hover.h {
+  text-decoration: underline;
+  color: #f7f7f7;
+}
+
+.s, a:visited.s, a:active.s, a:hover.s {
+  text-decoration: underline;
+  color: #707070;
+}
+
+.menu, a:visited.menu, a:active.menu, a:link.menu, a:hover.menu {
+  text-decoration: none;
+  font-weight: bold;
+  border-top: 0px;
+  border-left: 0px #000000 solid;
+  border-right: 1px #000000 solid;
+  border-bottom: 0px #707070 solid;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #000000
+}
+
+a:hover.menu {
+  background-color: #ffffff;
+}
+
+.vot, a:visited.vot, a:active.vot, a:link.vot, a:hover.vot{
+  color: #000000;
+  text-decoration: none;
+  background-color: #D4D0C8;
+  font-family: Courier;
+  font-weight:bold;
+  border-top: 1px #ffffff solid;
+  border-left: 1px #ffffff solid;
+  border-right: 1px #808080 solid;
+  border-bottom: 1px #808080 solid;
+  padding: 2px 4px 2px 4px;
+}
+
+a:hover.vot{
+  background-color: #D4D0C8;
+  border-top: 1px #808080 solid;
+  border-left: 1px #808080 solid;
+  border-right: 1px #ffffff solid;
+  border-bottom: 1px #ffffff solid;
+}
+
+.adm, a:visited.adm, a:active.adm, a:hover.adm {
+  color: #BA7C0A;
+  text-decoration: none;
+}
+
+a:hover.adm {
+  color: #BA7C77;
+  text-decoration: underline
+}
+
+kbd {
+  font-family: Courier;
+  font-weight: bold;
+}
+
+.tableq1 {
+  width: 99%;
+  padding: 2px 0px 3px 0px;
+  border: 0px;
+}
+.qbackb {
+  background-color: #000000
+}
+.qbackr1 {
+  background-color: #e7e7e7
+}
+.qbackr2 {
+  background-color: #f7f7f7
+}
+
+input, textarea, select {
+  border:1px solid #000000;
+  font-family: Tahoma;
+  font-size: 13px;
+  padding-left:2px; padding-right:2px;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+#CODE {
+ padding:2px; font-family: Courier New, Courier, Verdana, Arial;
+ color: #000000;
+ background-color: #ffffff;
+ border: 1px solid #000000;
+}
+-->
+</STYLE>

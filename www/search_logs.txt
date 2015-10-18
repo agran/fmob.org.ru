@@ -1,0 +1,108 @@
+User: anonchik(12)
+IP: 77.241.164.53
+QUERY_STRING: mode=search&query=an&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: an
+Time: 0,01
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.177.65
+QUERY_STRING: mode=search&query=Тюня&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: Тюня
+Time: 0.05
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.177.65
+QUERY_STRING: mode=search&query=Настя%20тюнягина&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: Настя тюнягина
+Time: 0.11
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.177.65
+QUERY_STRING: mode=search&query=Настя%20тюнягина&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: Настя тюнягина
+Time: 0.01
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.177.65
+QUERY_STRING: mode=search&query=паравозик&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: паравозик
+Time: 0.05
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.177.65
+QUERY_STRING: mode=search&query=на%20красной&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: на красной
+Time: 0.30
+Total matches: 1
+Pages: 1
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.177.27
+QUERY_STRING: mode=search&query=chicsa&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: chicsa
+Time: 0.05
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.182.109
+QUERY_STRING: mode=search&query=мобы&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: мобы
+Time: 0.12
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.182.109
+QUERY_STRING: mode=search&query=мобы&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: мобы
+Time: 0.02
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.182.109
+QUERY_STRING: mode=search&query=флешмоб&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: флешмоб
+Time: 0.13
+Total matches: 0
+Pages: 0
+------------------------
+
+User: Chicsa(43)
+IP: 95.153.182.109
+QUERY_STRING: mode=search&query=флешмоб&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: флешмоб
+Time: 0.02
+Total matches: 0
+Pages: 0
+------------------------
+
+User: agran(1)
+IP: 217.118.81.22
+QUERY_STRING: mode=search&query=fufh&plays=on&forum=on&name=on&onlytopic=&predv=
+QUERY: fufh
+Time: 0.04
+Total matches: 0
+Pages: 0
+------------------------
+

@@ -1,0 +1,12 @@
+DirectoryIndex index.pl  index.html
+#AddCharset cp1251 .html
+AddDefaultCharset windows-1251 
+Options +ExecCGI
+AddHandler cgi-script .pl
+
+#AddCharset UTF-8 .html
+#RewriteEngine On
+#DirectoryIndex index.cgi
+
+#Options +ExecCGI
+#AddHandler .cgi cgi-parser

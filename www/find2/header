@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>RiSearch results</title>
+
+<script language="JavaScript">
+<!--
+function setfocus() {
+  document.forms[0].query.focus();
+}
+// -->
+</script>
+
+</head>
+<body onLoad="setfocus()">
+
+<small>
+<FORM ACTION="search.pl" METHOD="GET">
+<INPUT TYPE="Text" NAME="query" SIZE="30">
+<INPUT TYPE="Hidden" NAME="stpos" VALUE="0">
+<INPUT TYPE="Submit" VALUE="Search">
+<BR>Search mode: 
+<INPUT TYPE="Radio" NAME="stype" VALUE="AND" checked>"AND"
+<INPUT TYPE="Radio" NAME="stype" VALUE="OR">"OR"
+</FORM>
+</small>

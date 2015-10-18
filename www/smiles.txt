@@ -1,0 +1,60 @@
+:D|icon_biggrin.gif|15|15|Very Happy
+:)|icon_smile.gif|15|15|Smile
+:(|icon_sad.gif|15|15|Sad
+:shock:|icon_eek.gif|15|15|Shocked
+:?|icon_confused.gif|15|15|Confused
+8)|icon_cool.gif|15|15|Cool
+:lol:|icon_lol.gif|15|15|Laughing
+:x|icon_mad.gif|15|15|Mad
+:P|icon_razz.gif|15|15|Razz
+:oops:|icon_redface.gif|15|15|Embarassed
+:o|icon_surprised.gif|15|15|Surprised
+:cry:|icon_cry.gif|15|15|Crying or Very sad
+:evil:|icon_evil.gif|15|15|Evil or Very Mad
+:twisted:|icon_twisted.gif|15|15|Twisted Evil
+:roll:|icon_rolleyes.gif|15|15|Rolling Eyes
+:wink:|icon_wink.gif|15|15|Wink
+:[|icon_neutral.gif|15|15|Neutral
+:mrgreen:|icon_mrgreen.gif|15|15|Mr. Green
+:beer:|icon_beer.gif|57|16|Пивка!
+:drink:|icon_drink.gif|24|18|Пьяный :)
+:kos:|icon_kos.gif|40|43|Косяк
+:haha:|icon_haha.gif|15|15|ХА-ХА!!!
+:mol:|icon_pray.gif|27|22|БОГ!
+:super:|icon_super.gif|26|28|Супер!
+:appl:|icon_appl.gif|35|31|Мои аплодисменты!
+:up:|icon_up.gif|15|15|Здорово!
+:down:|icon_down.gif|15|15|Отстой!
+:figa:|icon_figa.gif|20|20|Фиг тебе!
+:ps:|icon_ps.gif|17|16|Пы СЫ
+:copy:|icon_c.gif|28|28|©
+:sla:|icon_sla.gif|28|22|Наблюдатель
+:nnn:|icon_nnn.gif|82|16|Я не вмешиваюсь
+:jump:|icon_2jump.gif|30|46|Прыжки
+:rotate:|icon_rotate.gif|15|15|Вертится
+:vedi:|icon_vedi.gif|60|50|Поприличнее
+:vesel:|icon_vesel.gif|90|55|Веселись
+:leb:|icon_leb.gif|74|22|Лебединое озеро
+:dance:|icon_dance.gif|32|32|Танец
+:kolbasa:|icon_kolbas.gif|48|18|Колбаса
+:ura:|icon_ura.gif|42|34|Ура!!!
+:ura2:|icon_ura2.gif|100|20|Урааа!!!
+:rev:|icon_rev.gif|40|25|Реверанс
+:priznan:|icon_priznan.gif|57|38|Признание
+:gorgeous:|icon_gorgeous.gif|28|20|Красотка
+:dream:|icon_odream.gif|25|30|Мечтать
+:inlove:|icon_inlove.gif|15|15|Влюблёно
+:byl:|icon_byl.gif|54|23|Здесь был я
+:lam:|icon_lam.gif|60|23|Ламер
+:inv:|icon_inv.gif|80|20|Инвалид
+:spy:|icon_spy.gif|15|15|Шпион
+:weep:|icon_weep.gif|21|15|Плачет
+:no-no:|icon_dont.gif|28|27|НО-НО!
+:nud:|icon_nud.gif|60|49|Скрипач
+:bud:|icon_bud.gif|60|40|По коням!
+:nunu:|icon_nunu.gif|43|19|Ну-Ну...
+:box2:|icon_box2.gif|28|21|Бокс
+:saw:|icon_chain.gif|75|26|Порублю!!!
+:susel:|icon_susel.gif|70|29|Подходи по одному
+:maniac:|icon_maniac.gif|70|25|Маньяк
+:rose:|icon_rose.gif|17|22|Роза
